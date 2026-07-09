@@ -1,3 +1,3 @@
 # malikib
 
-I am an engineer currently focusing on and deep diving into Quality Assurance (QA).
+I am an engineer currently deep diving into Quality Assurance (QA).
